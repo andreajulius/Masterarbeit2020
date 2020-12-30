@@ -23,12 +23,12 @@ email: ajulius@students.uni-mainz.de
 description: >- # this means to ignore newlines until "baseurl:"
   Website zur Masterarbeit:<br> "Korpusbasierte Untersuchung der Veränderung des Sprachgebrauchs am Beispiel sozialpolitischer Texte aus der Zeit zwischen 1869 und 1914"
 baseurl: "Masterarbeit2020" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andreajulius.github.io/Masterarbeit2020/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
+remote-theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
